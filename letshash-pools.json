@@ -3,7 +3,7 @@
     {
       "name": "Armor (AMX)",
       "url": "https://letshash.it/amx/",
-      "api": "https://amx.letshash.online/api/stats/",
+      "api": "https://amx.letshash.online/api/",
       "type": "forknote",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
@@ -21,7 +21,7 @@
     {
       "name": "Conceal (CCX)",
       "url": "https://letshash.it/ccx/",
-      "api": "https://ccx.letshash.online/api/stats/",
+      "api": "https://ccx.letshash.online/api/",
       "type": "forknote",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
@@ -48,7 +48,7 @@
     {
       "name": "CACHE (CXCHE)",
       "url": "https://letshash.it/cxche/",
-      "api": "https://cxche.letshash.online/api/stats/",
+      "api": "https://cxche.letshash.online/api/",
       "type": "forknote",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
@@ -57,7 +57,7 @@
     {
       "name": "ETHER-1 (ETHO)",
       "url": "https://letshash.it/etho/",
-      "api": "https://etho-api.letshash.online/api/stats/",
+      "api": "https://etho-api.letshash.online/api/",
       "type": "other",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
@@ -84,7 +84,7 @@
     {
       "name": "Infinium-8 (INF8)",
       "url": "https://letshash.it/inf/",
-      "api": "https://inf.letshash.online/api/stats/",
+      "api": "https://inf.letshash.online/api/",
       "type": "forknote",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
@@ -93,7 +93,7 @@
     {
       "name": "Klaro (KLR)",
       "url": "https://letshash.it/klr/",
-      "api": "https://klr.letshash.online/api/stats/",
+      "api": "https://klr.letshash.online/api/",
       "type": "forknote",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
@@ -111,7 +111,7 @@
     {
       "name": "Nibble (NBXC)",
       "url": "https://letshash.it/nbxc/",
-      "api": "https://nbxc.letshash.online/api/stats/",
+      "api": "https://nbxc.letshash.online/api/",
       "type": "forknote",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
@@ -120,7 +120,7 @@
     {
       "name": "NimboCoin (NIMB)",
       "url": "https://letshash.it/nimbo/",
-      "api": "https://nimbo.letshash.online/api/stats/",
+      "api": "https://nimbo.letshash.online/api/",
       "type": "forknote",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
@@ -138,7 +138,7 @@
     {
       "name": "NinjaCoin (NINJA)",
       "url": "https://letshash.it/ninja/",
-      "api": "https://ninja.letshash.online/api/stats/",
+      "api": "https://ninja.letshash.online/api/",
       "type": "forknote",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
@@ -163,7 +163,7 @@
     {
       "name": "SpaceCoin (SPACE)",
       "url": "https://letshash.it/space/",
-      "api": "https://equihash.letshash.online/api/stats/",
+      "api": "https://equihash.letshash.online/api/",
       "type": "other",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
@@ -181,7 +181,7 @@
     {
       "name": "WallStreetBetsCoin (WSBC)",
       "url": "https://letshash.it/wsbc/",
-      "api": "https://wsbc.letshash.online/api/stats/",
+      "api": "https://wsbc.letshash.online/api/",
       "type": "forknote",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
@@ -190,7 +190,7 @@
     {
       "name": "FandomGold (XFG)",
       "url": "https://letshash.it/xfg/",
-      "api": "https://xfg.letshash.online/api/stats/",
+      "api": "https://xfg.letshash.online/api/",
       "type": "forknote",
       "miningAddress": "pool.letshash.it",
       "mergedMining": false,
