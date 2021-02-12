@@ -1,0 +1,1 @@
+# letshash.it-pools-json
